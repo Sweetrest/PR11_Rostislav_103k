@@ -1,0 +1,33 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable car1
+drawable car2
+drawable doroga
+drawable finish
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable icon
+drawable purple_1
+id Car1
+id Car2
+id btnDrive1
+id btnDrive2
+id btnstart2
+id buttonstart
+id imageView
+id imageView2
+id imageView5
+id playlayout
+id startlayout
+id tvResult
+layout play
+layout start
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.Pr11
+style Theme.Pr11
+xml backup_rules
+xml data_extraction_rules
